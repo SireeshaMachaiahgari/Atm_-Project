@@ -6,7 +6,7 @@ public class Main {
 	    static PinGenerateClass pin = new PinGenerateClass();  // your existing PinGenerateClass
 
 	    public static void main(String[] args) throws InterruptedException {
-			 System.out.println("Welcome To JSpider ATM , KPHB 5th Pahse😍😍😍");
+			 System.out.println("Welcome To Unique ATM , KPHB 2nd Pahse😍😍😍");
 				System.out.println("Please insert your card...😎😎😎");
 				 System.out.println("🙏🙏 card under processing dont remove your card🙏🙏");
 
