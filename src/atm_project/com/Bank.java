@@ -2,12 +2,12 @@ package atm_project.com;
 
 public class Bank {
 	
-	String accountHoldername="Naveen";
+	String accountHoldername="Sireesha";
    public static double accountNumber=123456789123L;
 	long mbNumber=9876543212L;
 	double totalBalance=20000;
 	String ifscCode="P0000123";
-	String branch="KPHB 5th Phase";
+	String branch="KPHB 2nd Phase";
      
 	public static void checkBalance(double balance)
 	{
